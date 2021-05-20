@@ -1,0 +1,11 @@
+[
+  {
+    "commandLine": "python /datadrive/forecast_rodeo/src/experiments/2011-2018_backward_stepwise.py contest_tmp2m 34w 56 mean False 20110808 2 2 8GB", 
+    "displayName": "displayName0", 
+    "id": "task0", 
+    "constraints": {
+      "maxWallClockTime": "P1D", 
+      "maxTaskRetryCount": 2
+    }
+  }
+]
